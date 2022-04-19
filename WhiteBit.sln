@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBit.Console", "WhiteBit.Console\WhiteBit.Console.csproj", "{F7716DA8-9138-458A-82F9-83859EBD067D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBit.Api", "WhiteBit.Api\WhiteBit.Api.csproj", "{C51CCEE5-805D-4A89-9B06-F18901B0D9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBit.WebSocket", "WhiteBit.WebSocket\WhiteBit.WebSocket.csproj", "{773473D1-0112-4C03-B4DE-2F3FD8958DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBit.Desktop", "WhiteBit.Desktop\WhiteBit.Desktop.csproj", "{35933DC4-A585-4D95-AF7A-D563B8B3C228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7716DA8-9138-458A-82F9-83859EBD067D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7716DA8-9138-458A-82F9-83859EBD067D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7716DA8-9138-458A-82F9-83859EBD067D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7716DA8-9138-458A-82F9-83859EBD067D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51CCEE5-805D-4A89-9B06-F18901B0D9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51CCEE5-805D-4A89-9B06-F18901B0D9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51CCEE5-805D-4A89-9B06-F18901B0D9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51CCEE5-805D-4A89-9B06-F18901B0D9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773473D1-0112-4C03-B4DE-2F3FD8958DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773473D1-0112-4C03-B4DE-2F3FD8958DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773473D1-0112-4C03-B4DE-2F3FD8958DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773473D1-0112-4C03-B4DE-2F3FD8958DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35933DC4-A585-4D95-AF7A-D563B8B3C228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35933DC4-A585-4D95-AF7A-D563B8B3C228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35933DC4-A585-4D95-AF7A-D563B8B3C228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35933DC4-A585-4D95-AF7A-D563B8B3C228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
